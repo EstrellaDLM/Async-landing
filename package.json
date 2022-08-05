@@ -1,0 +1,25 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Landingpage usando conceptos de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstrellaDLM/Async-landing.git"
+  },
+  "keywords": [
+    "Asincronismo"
+  ],
+  "author": "Tommosho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EstrellaDLM/Async-landing/issues"
+  },
+  "homepage": "https://github.com/EstrellaDLM/Async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
